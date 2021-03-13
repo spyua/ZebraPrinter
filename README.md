@@ -21,7 +21,7 @@ TryFlow(() =>{
 
 ```
 
-## ZplBuilder API
+## ZplBuilder API (CSharp and Java)
 
  ### 一般通用函式
   - GetZpl:取得完整的 zpl 段
