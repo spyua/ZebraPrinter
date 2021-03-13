@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZebraUDP", "ZebraUDP\ZebraUDP.csproj", "{227746A2-6894-4923-B22E-73CBE3169116}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{62DB3953-D351-4FE3-807A-109F1C1C1B65}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{227746A2-6894-4923-B22E-73CBE3169116}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{227746A2-6894-4923-B22E-73CBE3169116}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{227746A2-6894-4923-B22E-73CBE3169116}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{227746A2-6894-4923-B22E-73CBE3169116}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62DB3953-D351-4FE3-807A-109F1C1C1B65}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DB3953-D351-4FE3-807A-109F1C1C1B65}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DB3953-D351-4FE3-807A-109F1C1C1B65}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DB3953-D351-4FE3-807A-109F1C1C1B65}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F474577A-05C0-41F9-A359-CEA6C1E5176E}
+	EndGlobalSection
+EndGlobal
